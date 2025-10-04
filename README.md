@@ -1,5 +1,6 @@
 # Amino.AI
 Computational biology project attempting to revolutionize codon optimization for synthetic biology proteins via a proof-of-concept web application.
+
 © 2025 Pratyush Verma. MIT License.
 
 
