@@ -2,6 +2,7 @@
 Computational biology project attempting to revolutionize codon optimization for synthetic biology proteins via a proof-of-concept web application.
 © 2025 Pratyush Verma. MIT License.
 
+
 <aside>
 
 **This is strictly a proof-of-concept project to demonstrate the capability of artificial intelligence for codon optimization. Use of this tool in professional or laboratory settings is not recommended.**
@@ -15,8 +16,12 @@ I’ve always been drawn to natural science- and in my opinion, biology is the m
 Although most of my work ties back to computer science, I’m not looking to stay behind a screen forever. I want to step into the wet lab, learn how the machines work, master the micropipette, and create things that have tangible, biological results. Computer science has one major caveat: everything you build has no physical form. **I want to change that — to write code that doesn’t just exist, but *lives*.**
 
 
-> **Note: For the sake of this project (and my sanity), we’re “optimizing” proteins based on only three out of a plethora of biological factors:**
-> 
+<aside>
+
+**Note: For the sake of this project (and my sanity), we’re “optimizing” proteins based on only three out of a plethora of biological factors:**
+
+</aside>
+
 1. **Codon Adaptation Index (CAI)** – how closely the gene sequence matches the preferred codons of the target organism.
 2. **GC Content** – the proportion of guanine–cytosine base pairs, which influences DNA/RNA stability and expression efficiency.
 3.  **Randomization of Synonymous Codons** – breaking exact repeat patterns to prevent cloning and expression issues while maintaining high translation efficiency.
